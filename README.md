@@ -1,4 +1,5 @@
 # Motor Vehicle Theft Analysis
+![thumbnail](https://github.com/valezenwanne/Motor_Vehicle_Thefts_Analysis/assets/106878963/c6c6f973-ecaf-499b-895a-87b3db5ed858)
 
 ## Introduction
 - The project involves using SQL to analyze 6 months of stolen vehicle data collected from the New Zealand Police department’s database.
